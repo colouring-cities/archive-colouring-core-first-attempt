@@ -6,7 +6,7 @@ The core implementation of the [Colouring Cities](https://github.com/colouring-c
 
 Colouring Cities is a web-based citizen social science project designed to help address these questions by crowd-sourcing and visualising various categories of information on a city’s buildings.
 
-See [colouring-london](https://github.com/colouring-london/colouring-london/) 
+See [colouring-london](https://github.com/colouring-cities/colouring-london/) 
 for the reference implementation.
 
 ## Structure
