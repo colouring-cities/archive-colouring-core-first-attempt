@@ -30,6 +30,12 @@ You can try out the Colouring Cities application by setting up your own developm
   
 _Last updated March 2022_
 
+#### Configuring the application:
+
+You can customise the appearance and settings for the Colouring Cities application, for example by changing the Colouring {City Name} or changing the initial map location. This is done through JSON config files. For more, see [docs/configure-your-environment](docs/configure-your-environment.md).
+  
+_Last updated December 2022_
+
 #### Create a production version of the application:
 
 We also have documentation on setting up a production environment here: [docs/setup-production-environment](docs/setup-production-environment.md).
