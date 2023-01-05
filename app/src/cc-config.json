@@ -1,0 +1,8 @@
+{
+    "cityName": "Cities",
+    "projectBlurb": "Colouring Cities is the core implementation of the Colouring Cities Research Programme (CCRP)",
+    "githubURL": "https://github.com/colouring-cities/colouring-core",
+
+    "initialMapPosition": [ 51.5245255, -0.1338422 ],
+    "initialZoomLevel": 16
+}
