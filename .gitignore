@@ -23,6 +23,7 @@ etl/**/*.gz
 etl/**/5690395*
 postgresdata
 */__pycache__/*
+!etl/requirements.txt
 
 .DS_Store
 
